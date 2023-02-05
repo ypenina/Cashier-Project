@@ -14,7 +14,7 @@ A Friend need your help to create cashier program with some feature
 7. Discount applied when certain amount of total is achieved
 
 # FLOWCHART
-![alt text]("C:\Users\nural\Downloads\flowchart super cashier.drawio.png")
+![Flowchart](C:\Users\nural\Downloads\flowchart super cashier.drawio.png)
 
 # MODULES EXPLANATION
 # HOW TO USE 
