@@ -1,7 +1,9 @@
 # PYTHON PROJECT SUPER CASHIER
 Nur Alam Saputra / nuralamsaputraa@gmail.com
+
 # PROJECT BACKGROUNDS
-Create self service program on python for helping customers
+A Friend need your help to create cashier program with some feature
+
 # FEATURE REQUIREMENTS
 1. Customers must be able to add or update items
 2. Customers must be able to erase 1 items on the list
@@ -10,7 +12,10 @@ Create self service program on python for helping customers
 5. Customers get the "order's confirmed" when the input is right
 6. Customers get the "error message" when there's error on the input
 7. Discount applied when certain amount of total is achieved
+
 # FLOWCHART
+![Flowchart](https://drive.google.com/file/d/1dDAP3Hb4sNa_GILg_31f85p-u72JALKJ/view?usp=share_link)
+
 # MODULES EXPLANATION
 # HOW TO USE 
 # TEST CASE
