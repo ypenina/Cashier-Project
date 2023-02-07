@@ -85,4 +85,5 @@ Show how much amount customer need to pay, if certain amount is achieved custome
 
 # CONCLUSION
 
-### I believe this python program will worked as intended and with comments and suggestion it will improve far better
+I believe this python program will worked as intended and with comments and suggestion it will improve far better.
+
